@@ -1,0 +1,54 @@
+{
+    "keep": {
+        "days": true,
+        "amount": 14
+    },
+    "auditLog": "F:\\Projects\\Nodejs\\Travel Budy\\logs\\.1539eeb7087d8d1eed2952e83f2e86c859ec0feb-audit.json",
+    "files": [
+        {
+            "date": 1601635766422,
+            "name": "F:\\Projects\\Nodejs\\Travel Budy\\logs\\2020-10-02.log",
+            "hash": "b69d75a2376441e0aa7ed16019742560"
+        },
+        {
+            "date": 1601706500877,
+            "name": "F:\\Projects\\Nodejs\\Travel Budy\\logs\\2020-10-03.log",
+            "hash": "9ed86c5ddc4d9d1720d1c8492a797aed"
+        },
+        {
+            "date": 1601793633520,
+            "name": "F:\\Projects\\Nodejs\\Travel Budy\\logs\\2020-10-04.log",
+            "hash": "8c7fb4d2eb20fe5a77dfe24198cd61a9"
+        },
+        {
+            "date": 1601876073701,
+            "name": "F:\\Projects\\Nodejs\\Travel Budy\\logs\\2020-10-05.log",
+            "hash": "d4dac1f443bf425f234b9e7d149510ac"
+        },
+        {
+            "date": 1601963673742,
+            "name": "F:\\Projects\\Nodejs\\Travel Budy\\logs\\2020-10-06.log",
+            "hash": "de84dd44ca3b13d12468d2f89b0397bd"
+        },
+        {
+            "date": 1602136873726,
+            "name": "F:\\Projects\\Nodejs\\Travel Budy\\logs\\2020-10-08.log",
+            "hash": "30138ceace2121c8edb7fa5e27578fd3"
+        },
+        {
+            "date": 1602314448247,
+            "name": "F:\\Projects\\Nodejs\\Travel Budy\\logs\\2020-10-10.log",
+            "hash": "a7f346998ce7bb04802ed6bc15a66a5a"
+        },
+        {
+            "date": 1602430939420,
+            "name": "F:\\Projects\\Nodejs\\Travel Budy\\logs\\2020-10-11.log",
+            "hash": "25f84947f6ca6375b5a106f65473d05f"
+        },
+        {
+            "date": 1602479807531,
+            "name": "F:\\Projects\\Nodejs\\Travel Budy\\logs\\2020-10-12.log",
+            "hash": "5a3b4d174c2966a9eb690ac191aed592"
+        }
+    ]
+}

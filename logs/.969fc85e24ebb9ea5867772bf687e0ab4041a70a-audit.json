@@ -1,0 +1,19 @@
+{
+    "keep": {
+        "days": true,
+        "amount": 14
+    },
+    "auditLog": "F:\\Projects\\Nodejs\\TravelBudy - Backend\\CPL\\Travel Budy\\logs\\.969fc85e24ebb9ea5867772bf687e0ab4041a70a-audit.json",
+    "files": [
+        {
+            "date": 1602923648198,
+            "name": "F:\\Projects\\Nodejs\\TravelBudy - Backend\\CPL\\Travel Budy\\logs\\2020-10-17.log",
+            "hash": "d964d107add0eaee15a7afc5e7733ae4"
+        },
+        {
+            "date": 1603121352748,
+            "name": "F:\\Projects\\Nodejs\\TravelBudy - Backend\\CPL\\Travel Budy\\logs\\2020-10-19.log",
+            "hash": "8764cd1d45188154cedf6d2049fb3253"
+        }
+    ]
+}
